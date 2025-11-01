@@ -96,26 +96,6 @@ public static BufferedImage gridFill(BufferedImage img, Color bgColor, Color gri
 
 ---
 
-## 🧪 Example Output
-
-```java
-java.awt.Point[x=0,y=3]
-java.awt.Point[x=1,y=3]
-java.awt.Point[x=0,y=2]
-java.awt.Point[x=2,y=3]
-java.awt.Point[x=1,y=2]
-java.awt.Point[x=0,y=1]
-...
-```
-
-Resulting Image:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350" alt="Flood Fill Animation Example"/>
-</p>
-
----
-
 ## 🧩 Key Concepts Demonstrated
 
 ✅ **Breadth-First Search (BFS)** traversal
